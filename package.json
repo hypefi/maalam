@@ -1,0 +1,11 @@
+{
+  "name": "maalam",
+  "version": "1.0.0",
+  "description": "Android App, Uber of trade workers in Morocco (world ? )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
